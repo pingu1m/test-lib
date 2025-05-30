@@ -1,0 +1,5 @@
+threshold: 0.95
+description: Final test after fixing all issues
+table_name: final_test_table
+column_name: final_test_column
+check_name: final_test_check
