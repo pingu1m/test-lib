@@ -1,0 +1,5 @@
+threshold: 0.95
+description: Test description after fix v2
+table_name: test_table
+column_name: test_column
+check_name: test_check_fixed_v2
